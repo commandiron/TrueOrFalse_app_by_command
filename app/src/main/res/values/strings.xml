@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrueOrFalse_app_by_command</string>
+    <string name="enter_operator"><![CDATA[Enter Operator (==, !=, >, >=, <, <=)]]></string>
+</resources>
